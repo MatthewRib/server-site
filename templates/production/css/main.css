@@ -1704,6 +1704,12 @@ footer {
     display: none;
 }
 
+.margin {
+    padding-bottom: 1px;
+    padding-top: 5px;
+    color: white;
+}
+
 @media (min-width: 576px) {
 
     .stat__button__container {
